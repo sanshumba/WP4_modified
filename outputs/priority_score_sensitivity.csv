@@ -1,0 +1,5 @@
+specification,spearman_vs_base,top11_overlap,max_abs_rank_shift
+percentile,0.8995282836001071,10,24
+z-score,0.9891146589259796,11,6
+min-max with S24 excluded from scaling bounds,0.9406547331075632,10,17
+redundancy-controlled three-domain construction,0.8704241251411062,7,27

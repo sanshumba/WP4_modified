@@ -1,0 +1,2 @@
+spearman_break_even_vs_annual_kwh,ci_low,ci_high,n_correlation,n_uncensored,n_right_censored_above_10,censor_cap,bootstrap_draws,bootstrap_seed
+0.9996774713755846,0.9975766339037179,1.0,53,52,1,10,10000,1042

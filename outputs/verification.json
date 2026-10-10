@@ -1,0 +1,12 @@
+{
+  "consensus": [
+    "S17",
+    "S2",
+    "S3",
+    "S43",
+    "S48",
+    "S49"
+  ],
+  "service_annual": 31530.73,
+  "max_residual_discrepancy": 2.220446049250313e-16
+}
